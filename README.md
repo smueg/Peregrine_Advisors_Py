@@ -1,6 +1,6 @@
 # Peregrine Advisors Python Challenges
 
-Love 💕 the unwaivering persisent effort to always learn more and expanding one's 🧠 ; hate the attitude 👌✨
+Love 💕 the unwavering persistent effort to always learn more and expand one's 🧠 ; hate the attitude 👌✨
 
 A set of small Python scripts that solve operations and security problems: tracing
 the impact of a service outage, flagging brute-force login attempts, and checking
