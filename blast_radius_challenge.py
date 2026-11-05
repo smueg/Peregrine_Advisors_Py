@@ -61,5 +61,6 @@ if __name__ == "__main__":
     # ", ".join() turns the list into plain text without [ ] and quotes.
     for svc in ["auth", "etl", "storage", "cdn"]:
         affected_services = find_affected_services(dependencies, svc)
-        print(f"\nService Name: \033[33m{svc}\033[0m")
-        print(f"Affected Services: \033[1;31m{', '.join(affected_services) or 'None'}\033[0m")
+        print(f"\nService Name: \033[33m{svc}\033[0m 🔧")
+        affected_services_text = ", ".join(f"{service_name} 👾" for service_name in affected_services) or "None ⛔"
+        print(f"Affected Services: \033[1;31m{affected_services_text}\033[0m")

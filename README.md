@@ -33,17 +33,17 @@ fails, finds every service that depends on it, directly or indirectly. It walks
 the dependency graph breadth-first with a `deque`.
 
 ```
-Service Name: auth
-Affected Services: admin, cdn, checkout, mobile-api, payments, web
+Service Name: auth 🔧
+Affected Services: admin 👾, cdn 👾, checkout 👾, mobile-api 👾, payments 👾, web 👾
 
-Service Name: etl
-Affected Services: admin, reports, warehouse
+Service Name: etl 🔧
+Affected Services: admin 👾, reports 👾, warehouse 👾
 
-Service Name: storage
-Affected Services: cdn, checkout, index, ledger, mobile-api, payments, search, web
+Service Name: storage 🔧
+Affected Services: cdn 👾, checkout 👾, index 👾, ledger 👾, mobile-api 👾, payments 👾, search 👾, web 👾
 
-Service Name: cdn
-Affected Services: None
+Service Name: cdn 🔧
+Affected Services: None ⛔
 ```
 
 ### Brute-force detection

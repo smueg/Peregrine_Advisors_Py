@@ -73,4 +73,6 @@ print("-----------------")
 # sorted() on a dictionary gives back its keys (the IPs) in order.
 # Expected: 172.16.5.20 - 4 attempts, 203.0.113.5 - 4 attempts
 for suspicious_ip_address_key in sorted(highest_attempt_count_by_ip):
-    print(f"IPv4 Address: \033[1;31m{suspicious_ip_address_key}\033[0m | 🔥 \033[1;33m{highest_attempt_count_by_ip[suspicious_ip_address_key]}\033[0m attempts within 🚨 {TIME_FRAME_SECONDS} seconds")
+    print(f"IPv4 Address: \033[1;31m{suspicious_ip_address_key}\033[0m | 🔥 \033[1;33m{highest_attempt_count_by_ip[suspicious_ip_address_key]} \
+          \033[0m Attempts within 🚨 {TIME_FRAME_SECONDS} seconds")
+
