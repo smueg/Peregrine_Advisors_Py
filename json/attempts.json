@@ -1,0 +1,82 @@
+[
+    {
+        "ip_address": "203.0.113.5",
+        "seconds_offset": 40
+    },
+    {
+        "ip_address": "198.51.100.9",
+        "seconds_offset": 140
+    },
+    {
+        "ip_address": "192.0.2.44",
+        "seconds_offset": 25
+    },
+    {
+        "ip_address": "172.16.5.20",
+        "seconds_offset": 100
+    },
+    {
+        "ip_address": "203.0.113.99",
+        "seconds_offset": 10
+    },
+    {
+        "ip_address": "203.0.113.5",
+        "seconds_offset": 0
+    },
+    {
+        "ip_address": "172.16.5.20",
+        "seconds_offset": 0
+    },
+    {
+        "ip_address": "198.51.100.9",
+        "seconds_offset": 0
+    },
+    {
+        "ip_address": "192.0.2.44",
+        "seconds_offset": 0
+    },
+    {
+        "ip_address": "203.0.113.99",
+        "seconds_offset": 0
+    },
+    {
+        "ip_address": "172.16.5.20",
+        "seconds_offset": 135
+    },
+    {
+        "ip_address": "198.51.100.9",
+        "seconds_offset": 70
+    },
+    {
+        "ip_address": "203.0.113.5",
+        "seconds_offset": 20
+    },
+    {
+        "ip_address": "192.0.2.44",
+        "seconds_offset": 200
+    },
+    {
+        "ip_address": "203.0.113.99",
+        "seconds_offset": 20
+    },
+    {
+        "ip_address": "172.16.5.20",
+        "seconds_offset": 115
+    },
+    {
+        "ip_address": "203.0.113.5",
+        "seconds_offset": 55
+    },
+    {
+        "ip_address": "198.51.100.9",
+        "seconds_offset": 210
+    },
+    {
+        "ip_address": "192.0.2.44",
+        "seconds_offset": 50
+    },
+    {
+        "ip_address": "172.16.5.20",
+        "seconds_offset": 150
+    }
+]
