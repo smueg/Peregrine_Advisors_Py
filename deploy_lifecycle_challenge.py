@@ -97,6 +97,6 @@ if __name__ == "__main__":
     # Step 5: Print each one with its first illegal sequence number.
     print("\n\033[4mInvalid Deployments\033[0m:")
     for deploy_id_key, sequence_number_value in sorted(invalid_deployments.items()):
-        print(f"\033[33m{deploy_id_key.capitalize()}\033[0m >> First illegal event at sequence:" \
-              + f" \033[1;31m{sequence_number_value}\033[0m")
+        print(f"\033[33m{deploy_id_key.capitalize()}\033[0m >> First illegal event at sequence: " \
+              + f"\033[1;31m{sequence_number_value}\033[0m")
 
