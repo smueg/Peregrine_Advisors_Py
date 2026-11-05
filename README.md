@@ -16,7 +16,7 @@ deployment state changes.
 Clone the repo and run any script from the project folder:
 
 ```bash
-git clone [text](https://github.com/smueg/Peregrine_Advisors_Py.git)
+git clone https://github.com/smueg/Peregrine_Advisors_Py.git
 cd Peregrine_Advisors_Py
 python blast_radius_challenge.py
 ```
