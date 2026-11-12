@@ -90,7 +90,3 @@ deploy-8 > First illegal event at sequence: 6
 └── .vscode/
     └── launch.json          # F5 runs the current file
 ```
-
-## Author
-
-Stéffen Mügel 😗 💋 💘
